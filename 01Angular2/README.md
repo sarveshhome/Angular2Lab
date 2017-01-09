@@ -27,13 +27,19 @@ https://www.bootstrapcdn.com/bootswatch/
 
 -----------------------------------
 Angular Dependencies
+
  -core JS Shim
+ 
  -Zone.js
+ 
  -Reflect Metadata
+ 
  -RxJS
+ 
  -SystemJS 
+ 
 
 
- npm install core-js reflect-metadata zone.js rxjs@5.0.0-beta.6 systemjs --save
+ `npm install core-js reflect-metadata zone.js rxjs@5.0.0-beta.6 systemjs --save`
 
 
