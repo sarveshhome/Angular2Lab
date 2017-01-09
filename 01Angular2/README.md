@@ -1,7 +1,7 @@
 
-`npm install -g angular-cli'
+`npm install -g angular-cli`
 
-`code index.html`
+code index.html
 
 `npm init --yes'
 
@@ -12,17 +12,17 @@ click bootswatch
 
 https://www.bootstrapcdn.com/bootswatch/
 
-npm install lite-server --save-dev
+`npm install lite-server --save-dev`
 
-npm run lite-server
+`npm run lite-server`
 
-npm install --save-dev typescript typings
+`npm install --save-dev typescript typings`
 
-npm install -g typings
+`npm install -g typings`
 
-typings install dt~core-js dt~jasmine dt~node --save --global
+`typings install dt~core-js dt~jasmine dt~node --save --global`
 
-npm install concurrently --save-dev
+`npm install concurrently --save-dev`
 
 
 -----------------------------------
