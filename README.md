@@ -2,7 +2,8 @@
 
 
 
-
+##Angular2 follow file structure
+<img src="https://github.com/sarveshhome/Angular2Lab/blob/master/images/Setup-Angular2.PNG"></img>
 
 ************************************************************
 useful instruction before start
