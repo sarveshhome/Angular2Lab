@@ -1,0 +1,24 @@
+{
+    "name": "angular_crud_withdatabase",
+    "version": "1.0.0",
+    "description": "angular_crud_withdatabase",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "angular",
+        "node",
+        "express"
+    ],
+    "author": "sarvesh.mca@hotmail.com",
+    "license": "ISC",
+    "dependencies": {
+        "angular": "^1.6.1",
+        "angular-messages": "^1.6.1",
+        "angular-ui-router": "^0.4.2",
+        "body-parser": "^1.16.0",
+        "bootstrap": "^3.3.7",
+        "express": "^4.14.0"
+    }
+}
