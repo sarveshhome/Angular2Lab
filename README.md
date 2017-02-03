@@ -60,11 +60,11 @@ Angular Dependencies
 
  [Scotch.io](https://scotch.io/tag/angular-js)
  
+ [Angulartypescript.com](http://www.angulartypescript.com/)
+ 
  [egghead.io](https://egghead.io/courses/angular-2-fundamentals)
  
- [Learnangular2.com] (http://learnangular2.com/)
- 
- [Angulartypescript.com](http://www.angulartypescript.com/)
+ [Learnangular2.com] (http://learnangular2.com/)  
  
  [Angular2.com](http://www.angular2.com/) 
  
