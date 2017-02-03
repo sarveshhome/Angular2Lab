@@ -57,6 +57,8 @@ Angular Dependencies
  ###Best Resources To Start Angular 2 
 
  [Angular.io](https://angular.io/)
+
+ [Scotch.io](https://scotch.io/tag/angular-js)
  
  [egghead.io](https://egghead.io/courses/angular-2-fundamentals)
  
@@ -64,9 +66,7 @@ Angular Dependencies
  
  [Angulartypescript.com](http://www.angulartypescript.com/)
  
- [Angular2.com](http://www.angular2.com/)
- 
- [Scotch.io](https://scotch.io/tag/angular-js)
+ [Angular2.com](http://www.angular2.com/) 
  
  [angular university](https://angular-university.io/)
 
