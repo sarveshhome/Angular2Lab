@@ -50,9 +50,9 @@ Angular Dependencies
  -SystemJS 
  
 
-
- `npm install core-js reflect-metadata zone.js rxjs@5.0.0-beta.6 systemjs --save`
+ npm install core-js reflect-metadata zone.js rxjs@5.0.0-beta.6 systemjs --save
  
+ --------------------------------------------------------------------------------------------------------------
  
  ###Best Resources To Start Angular 2 
 
