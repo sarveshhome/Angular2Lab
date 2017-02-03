@@ -52,4 +52,21 @@ Angular Dependencies
 
 
  `npm install core-js reflect-metadata zone.js rxjs@5.0.0-beta.6 systemjs --save`
+ 
+ 
+ ###Best Resources To Start Angular 2 
+
+ [Angular.io](https://angular.io/)
+ 
+ [egghead.io](https://egghead.io/courses/angular-2-fundamentals)
+ 
+ [Learnangular2.com] (http://learnangular2.com/)
+ 
+ [Angulartypescript.com](http://www.angulartypescript.com/)
+ 
+ [Angular2.com](http://www.angular2.com/)
+ 
+ [Scotch.io](https://scotch.io/tag/angular-js)
+ 
+ [angular university](https://angular-university.io/)
 
