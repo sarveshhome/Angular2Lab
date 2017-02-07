@@ -1,5 +1,13 @@
 # Angular2SelfPra
 
+ npm install bootstrap@next
+ Bootstrap 3 Snippets 
+ bs3-navbar
+
+ng generate component about
+ ng generate component contact
+ 
+
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.30.
 
 ## Development server
