@@ -41,14 +41,14 @@ To get more help on the `angular-cli` use `ng help` or go check out the [Angular
 
 ---------------------------------------------------------------------
 
-Angular 2 Syllabus
+##Angular 2 Syllabus
 
-Angular 2 Fundamentals
+*Angular 2 Fundamentals
 
 * Angular 2 Architecture & Components
 - Current Development Tools
 - TypeScript and ECMAScript Essentials
-- 
+
 * Overview of TypeScript and ECMAScript 6
 
 - Classes and Imports
@@ -111,3 +111,16 @@ Angular 2 Fundamentals
 - History Manipulation
 - Error Handling
 - Additional techniques
+
+--------------------------------------------------------------------------------
+* Which architecture Angular 2 uses
+* How to use TypeScript to write Angular 2 applications
+* All about directives and components, including the creation of custom directives/ components
+* How databinding works
+* All about routing and handling navigation
+* What Pipes are and how to use them
+* How to access the Web (RESTful servers)
+* What dependency injection is and how to use it
+* How to use Modules in Angular 2
+* How to optimize your (bigger) Angular 2 Application
+* build a major project 
