@@ -37,3 +37,72 @@ Run `ng github-pages:deploy` to deploy to GitHub Pages.
 ## Further help
 
 To get more help on the `angular-cli` use `ng help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+---------------------------------------------------------------------
+
+Angular 2 Training Course Syllabus
+
+Angular 2 Fundamentals
+
+Angular 2 Architecture & Components
+Current Development Tools
+TypeScript and ECMAScript Essentials
+
+Overview of TypeScript and ECMAScript 6
+Classes and Imports
+Annotations
+RunTime Type System
+Angular Dart
+The role of Traceur
+Creating and Testing Angular Apps
+
+Defining Modules
+Two-way Data Binding
+Angular 2 Testing Tools
+Testing your Angular 2 code
+Templates
+
+Interpolation
+Property Binding
+Attribute, Class, and Style Binding
+Event Binding
+Additional techniques
+Dependency Injection
+
+Recap of Dependency Injection
+Defining and Injecting Services
+Going Further with Dependency Injection
+
+Providers
+Lazy injection
+Promise-based async injection
+Angular 2 Pipes
+
+Overview of Pipes
+Built-in Pipes.
+Parameterising a Pipe
+Chaining Pipes
+Stateful Pipes
+Custom Pipes
+Directives
+
+Overview of Directives in Angular 2.0
+Component Directives
+Decorator Directives
+Attribute Directives
+Structural Directives
+Template Directives
+Controllers
+Routing and Navigation
+
+Overview of Routing in Angular 2
+Route Patterns
+Query String Support
+Route Configuration
+Going Further with Routing
+
+Lifecycle Hooks
+History Manipulation
+Error Handling
+Additional techniques
