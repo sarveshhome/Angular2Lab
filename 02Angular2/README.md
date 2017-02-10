@@ -41,68 +41,73 @@ To get more help on the `angular-cli` use `ng help` or go check out the [Angular
 
 ---------------------------------------------------------------------
 
-Angular 2 Training Course Syllabus
+Angular 2 Syllabus
 
 Angular 2 Fundamentals
 
-Angular 2 Architecture & Components
-Current Development Tools
-TypeScript and ECMAScript Essentials
+* Angular 2 Architecture & Components
+- Current Development Tools
+- TypeScript and ECMAScript Essentials
+- 
+* Overview of TypeScript and ECMAScript 6
 
-Overview of TypeScript and ECMAScript 6
-Classes and Imports
-Annotations
-RunTime Type System
-Angular Dart
-The role of Traceur
-Creating and Testing Angular Apps
+- Classes and Imports
+- Annotations
+- RunTime Type System
+- Angular Dart
+- The role of Traceur
 
-Defining Modules
-Two-way Data Binding
-Angular 2 Testing Tools
-Testing your Angular 2 code
-Templates
+* Creating and Testing Angular Apps
+ 
+- Defining Modules
+- Two-way Data Binding
+- Angular 2 Testing Tools
+- Testing your Angular 2 code
 
-Interpolation
-Property Binding
-Attribute, Class, and Style Binding
-Event Binding
-Additional techniques
-Dependency Injection
+* Templates
+ 
+- Interpolation
+- Property Binding
+- Attribute, Class, and Style Binding
+- Event Binding
+- Additional techniques
 
-Recap of Dependency Injection
-Defining and Injecting Services
-Going Further with Dependency Injection
+* Dependency Injection
 
-Providers
-Lazy injection
-Promise-based async injection
-Angular 2 Pipes
+- Recap of Dependency Injection
+- Defining and Injecting Services
 
-Overview of Pipes
-Built-in Pipes.
-Parameterising a Pipe
-Chaining Pipes
-Stateful Pipes
-Custom Pipes
-Directives
+* Further with Dependency Injection
 
-Overview of Directives in Angular 2.0
-Component Directives
-Decorator Directives
-Attribute Directives
-Structural Directives
-Template Directives
-Controllers
-Routing and Navigation
+- Providers
+- Lazy injection
+- Promise-based async injection
+- Angular 2 Pipes
 
-Overview of Routing in Angular 2
-Route Patterns
-Query String Support
-Route Configuration
-Going Further with Routing
+* Overview of Pipes
+- Built-in Pipes.
+- Parameterising a Pipe
+- Chaining Pipes
+- Stateful Pipes
+- Custom Pipes
+- Directives
 
-Lifecycle Hooks
-History Manipulation
-Error Handling
-Additional techniques
+* Overview of Directives in Angular 2.0
+- Component Directives
+- Decorator Directives
+- Attribute Directives
+- Structural Directives
+- Template Directives
+- Controllers
+- Routing and Navigation
+
+* Overview of Routing in Angular 2
+- Route Patterns
+- Query String Support
+- Route Configuration
+* Further with Routing
+
+- Lifecycle Hooks
+- History Manipulation
+- Error Handling
+- Additional techniques
