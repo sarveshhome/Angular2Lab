@@ -1,5 +1,6 @@
 
 13. above step for new angular 2 project,
+
 	take 5 file when you start new project
 	index.html
 	package.json
